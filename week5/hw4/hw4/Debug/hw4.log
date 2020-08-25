@@ -1,0 +1,5 @@
+﻿  Using triplet "x86-windows" from "D:\github_cpp_upload\vcpkg\installed\x86-windows\"
+  dfsColor2.cpp
+D:\OSU_course\CS325_algorithms\week5\hw4\hw4\dfsColor2.cpp(133,23): warning C4018: '<': signed/unsigned mismatch
+D:\OSU_course\CS325_algorithms\week5\hw4\hw4\dfsColor2.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+  hw4.vcxproj -> D:\OSU_course\CS325_algorithms\week5\hw4\Debug\hw4.exe

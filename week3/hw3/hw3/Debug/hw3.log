@@ -1,0 +1,6 @@
+﻿  Using triplet "x86-windows" from "D:\github_cpp_upload\vcpkg\installed\x86-windows\"
+  extra_v2.cpp
+D:\OSU_course\CS325_algorithms\week3\hw3\hw3\extra_v2.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+D:\OSU_course\CS325_algorithms\week3\hw3\hw3\extra_v2.cpp(31,27): warning C4018: '<': signed/unsigned mismatch
+D:\OSU_course\CS325_algorithms\week3\hw3\hw3\extra_v2.cpp(121,23): warning C4018: '<': signed/unsigned mismatch
+  hw3.vcxproj -> D:\OSU_course\CS325_algorithms\week3\hw3\Debug\hw3.exe

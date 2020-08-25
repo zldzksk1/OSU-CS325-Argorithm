@@ -1,0 +1,4 @@
+﻿  Using triplet "x86-windows" from "D:\github_cpp_upload\vcpkg\installed\x86-windows\"
+  jumpingnumber.cpp
+D:\OSU_course\CS325_algorithms\week8\extra\extra\jumpingnumber.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+  extra.vcxproj -> D:\OSU_course\CS325_algorithms\week8\extra\Debug\extra.exe

@@ -1,0 +1,10 @@
+﻿  Using triplet "x86-windows" from "D:\github_cpp_upload\vcpkg\installed\x86-windows\"
+  Source.cpp
+D:\OSU_course\CS325_algorithms\week2\Project1\Project1\Source.cpp(39,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OSU_course\CS325_algorithms\week2\Project1\Project1\Source.cpp(42,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OSU_course\CS325_algorithms\week2\Project1\Project1\Source.cpp(45,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OSU_course\CS325_algorithms\week2\Project1\Project1\Source.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+D:\OSU_course\CS325_algorithms\week2\Project1\Project1\Source.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+D:\OSU_course\CS325_algorithms\week2\Project1\Project1\Source.cpp(110,27): warning C4018: '<': signed/unsigned mismatch
+D:\OSU_course\CS325_algorithms\week2\Project1\Project1\Source.cpp(63,9): warning C4101: 'input': unreferenced local variable
+  Project1.vcxproj -> D:\OSU_course\CS325_algorithms\week2\Project1\Debug\Project1.exe
